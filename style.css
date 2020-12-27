@@ -3,15 +3,71 @@ body
 		background-color:#78281F;
 	}
 
-
-	a:link, a:visited
+h1
 	{
 		background-color:#F5B7B1;
-		content:#17202A;
+		color: :#17202A;
+		font-family: Acme;
+		padding: 10px;
+		text-align: center;
+		text-decoration: blink;
+		display: inline-block;
+		border: solid;
+		border-color: #F1C40F;
+		border-radius: 50px 
+	}
+
+h2
+	{
+		background-color:##B3B6B7;
+		color: :##B3B6B7;
+		font-family: Annie Use Your Telescope;
+		padding: 10px;
+		text-align: center;
+		text-decoration: blink;
+		display: inline-block;
+		border: solid;
+		border-color: #40E0D0;
+		border-radius: 5px
+	}
+
+h3 
+	{
+		background-color:#16A085;
+		color: :#17202A;
+		font-family: Acme;
+		padding: 10px;
+		text-align: center;
+		text-decoration: blink;
+		display: inline-block;
+		border: solid;
+		border-color:#E40E32;
+		border-radius: 10px
+	}
+
+
+
+
+
+
+
+
+
+
+a:link, a:visited
+	{
+		background-color:#F5B7B1;
+		color: :#17202A;
 		font-family: Acme;
 		padding: 10px;
 		text-align: center;
 		text-decoration: blink;
 		display: inline-block;
 		border-radius: 10px
+	}
+
+a:hover, a:active
+	{
+		background-color: #DE3163;
+		color: #DFFF00; 
 	}
