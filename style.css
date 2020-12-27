@@ -1,5 +1,17 @@
 body 
 	{
 		background-color:#78281F;
-		
+	}
+
+
+	a:link, a:visited
+	{
+		background-color:#F5B7B1;
+		content:#17202A;
+		font-family: Acme;
+		padding: 10px;
+		text-align: center;
+		text-decoration: blink;
+		display: inline-block;
+		border-radius: 10px
 	}
